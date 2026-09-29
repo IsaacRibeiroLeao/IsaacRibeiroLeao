@@ -1,29 +1,40 @@
-# 👨‍💻 Isaac Ribeiro Leão
+# Hi, I'm Isaac Ribeiro Leão 👋
+### Full Stack Engineer | Microservices, Cloud & Distributed Systems
 
-Arquivos de configuração para o perfil do GitHub de Isaac Ribeiro Leão.
+Canadian Citizen based in Kitchener-Waterloo, ON, with extensive experience designing scalable microservices, high-throughput REST/GraphQL APIs, and cloud-native platforms. Specialized in Java (Spring Boot), TypeScript (React/Angular), AWS infrastructure, and integrating agentic AI tooling into development pipelines.
 
-## 📝 Descrição
+---
 
-Este repositório contém o arquivo `README.md` utilizado para exibir informações profissionais, experiências, habilidades e tecnologias no perfil do GitHub de Isaac Ribeiro Leão.
+### 🚀 What I Do
+- **Backend & Cloud Architecture:** Architecting resilient microservices, asynchronous messaging with AWS SQS/Kafka, and containerized deployments using Docker and Kubernetes.
+- **Enterprise Performance:** Proven track record of optimizing database queries and Redis caching to cut API latency by 30%, and standardizing CI/CD pipelines to boost deployment efficiency by 40%.
+- **Modern Web Platforms:** Building responsive, high-traffic interfaces utilizing React, Next.js, and TypeScript with Clean Architecture principles.
+- **AI-Accelerated Engineering:** Integrating modern agentic AI tools into testing (Jest, JUnit) and PR review workflows to accelerate shipping velocity.
 
-## 🚀 Funcionalidades
+---
 
-* Exibição de informações de perfil profissional e localização (Kitchener-Waterloo, ON | Cidadão Canadense).
-* Apresentação de experiências atuais e anteriores (Full Stack Engineer na HeyDev e ex-Full Stack Engineer na MedSafe Brasil).
-* Seção detalhada "Sobre Mim" destacando especialidades em microsserviços escaláveis, APIs REST/GraphQL de alto rendimento e arquiteturas de nuvem resilientes.
-* Listagem visual do Stack Tecnológico através de badges.
+### 💼 Recent Experience
+- **Full Stack Engineer** @ HeyDev *(Jan 2026 – Present)*  
+  Modernizing core distributed architectures into Dockerized microservices and NestJS services, managing asynchronous workflows with AWS SQS, and elevating sprint velocity.
+- **Full Stack Engineer** @ MedSafe Brasil *(Mar 2024 – Feb 2026)*  
+  Engineered high-concurrency healthcare web platforms (Angular 18, Next.js, Spring Boot), reduced technical debt by 25%, and integrated secure payment gateways with OAuth2/JWT.
 
-## 🛠️ Tecnologias
+---
 
-O perfil destaca o uso das seguintes tecnologias e ferramentas:
+### 🛠️ Tech Stack & Tooling
 
-* **Linguagens e Frameworks:** Java, Spring Boot, TypeScript, JavaScript, Next.js, React, NestJS, Angular, Python, FastAPI.
-* **Cloud, DevOps e Mensageria:** AWS, Docker, Kubernetes, Terraform, CI/CD, AWS SQS, Apache Kafka.
+**Languages & Frameworks:**  
+`Java (Spring Boot)` `TypeScript` `JavaScript` `Node.js` `NestJS` `Next.js` `React` `Angular` `Python (FastAPI)` `C#` `SQL`
 
-## 📥 Instalação e Uso
+**Architecture, Cloud & DevOps:**  
+`Clean Architecture` `Microservices` `AWS (SQS, Lambda, API Gateway, S3)` `Docker` `Kubernetes` `PostgreSQL` `MySQL` `Redis` `CI/CD Pipelines` `Terraform`
 
-Como este repositório contém apenas arquivos de configuração de perfil (`.github`), ele não possui código-fonte executável, passos de instalação de software ou comandos de uso aplicáveis. O conteúdo serve diretamente como a página principal (README) do perfil do GitHub do autor.
+**Testing & Practices:**  
+`JUnit` `Mockito` `Jest` `Git Flow` `Agile/Scrum` `Agentic AI Tooling`
 
-## 📄 Licença
+---
 
-Este repositório não possui uma licença identificada.
+### 📬 Connect With Me
+- **LinkedIn:** [linkedin.com/in/isaacleao](https://www.linkedin.com/in/isaacleao/)
+- **Email:** [isaacribeiroleao@gmail.com](mailto:isaacribeiroleao@gmail.com)
+- **Education:** Software Engineering Technician Diploma, Conestoga College
